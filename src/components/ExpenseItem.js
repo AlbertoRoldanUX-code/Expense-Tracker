@@ -11,5 +11,3 @@ function ExpenseItem() {
 }
 
 export default ExpenseItem;
-
-// Edit ExpenseItem component
