@@ -33,5 +33,3 @@ function App() {
 }
 
 export default App;
-
-// Create a new component which renders the 4 expense items using props to get the expenses.
