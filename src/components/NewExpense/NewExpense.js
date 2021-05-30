@@ -1,11 +1,8 @@
 import React from "react";
+import "./NewExpense.css";
 
 function NewExpense() {
-  return (
-    <div>
-      <form></form>
-    </div>
-  );
+  return <div className="new-expense"></div>;
 }
 
 export default NewExpense;
