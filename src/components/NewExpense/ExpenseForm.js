@@ -1,4 +1,5 @@
 import React from "react";
+import "./ExpenseForm.css";
 
 function ExpenseForm() {
   return (
