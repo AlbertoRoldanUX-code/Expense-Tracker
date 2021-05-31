@@ -39,5 +39,3 @@ const App = () => {
 };
 
 export default App;
-
-// Implement the capability to gather user input so that users can add their own expenses
