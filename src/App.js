@@ -43,3 +43,6 @@ const App = () => {
 };
 
 export default App;
+
+// Make filter work
+// - Use filter method.
