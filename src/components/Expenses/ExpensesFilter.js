@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./ExpensesFilter.css";
 
 const ExpensesFilter = (props) => {
@@ -11,7 +10,7 @@ const ExpensesFilter = (props) => {
     <div className="expenses-filter">
       <div className="expenses-filter__control">
         <label>Filter by year</label>
-        {/* 4º Listen to changes on that dropdown (when it selects a new year) ✔ */}
+        {/* Listen to changes on that dropdown (when it selects a new year) ✔ */}
         <select value={props.selected} onChange={dropdownHandler}>
           <option value="2022">2022</option>
           <option value="2021">2021</option>

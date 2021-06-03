@@ -39,3 +39,5 @@ const App = () => {
 };
 
 export default App;
+
+// Render list of data dynamically
